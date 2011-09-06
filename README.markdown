@@ -1,4 +1,4 @@
-**** Beta Project **** - Take note that this is a very beta project. If you find any issues or have any ideas please report them.
+****Beta Project**** - Take note that this is a very beta project. If you find any issues or have any ideas please report them.
 
 Creating a scaffold for the Windows Azure SDK for PHP (http://phpazure.codeplex.com) can be a complex and daunting experience. This project aims to abstract as much of that as possible.
 
