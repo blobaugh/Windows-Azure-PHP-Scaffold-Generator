@@ -1,4 +1,4 @@
-****BETA PROJECT**** This is currently a very beta project. There is not gaurantee on your results. Use with caution
+****BETA PROJECT**** This is currently a very beta project. There is not gaurantee on your results. Please leave feedback with bugs and feature requests
 
 Setup on Windows
 ----------------
